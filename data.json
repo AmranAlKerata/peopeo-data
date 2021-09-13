@@ -1,141 +1,141 @@
 [
   {
-    "id": 0,
+    "id": "0",
     "category": "plates",
-    "img": "./images/collection/item-0.png",
-    "tilte": "Decor Plate",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-0.png",
+    "title": "Decor Plate",
     "price": "65.00"
   },
   {
     "id": 1,
     "category": "vases",
-    "img": "./images/collection/item-1.png",
-    "tilte": "Mint Pottery",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-1.png",
+    "title": "Mint Pottery",
     "price": "75.00"
   },
   {
     "id": 2,
     "category": "vases",
-    "img": "./images/collection/item-2.png",
-    "tilte": "Set Of Potterys",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-2.png",
+    "title": "Set Of Potterys",
     "price": "125.00"
   },
   {
     "id": 3,
     "category": "vases",
-    "img": "./images/collection/item-3.png",
-    "tilte": "Orange Cermic",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-3.png",
+    "title": "Orange Cermic",
     "price": "55.00"
   },
   {
     "id": 4,
     "category": "vases",
-    "img": "./images/collection/item-4.png",
-    "tilte": "Dark Bowl",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-4.png",
+    "title": "Dark Bowl",
     "price": "115.00"
   },
   {
     "id": 5,
     "category": "vases",
-    "img": "./images/collection/item-5.png",
-    "tilte": "Square Pottery",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-5.png",
+    "title": "Square Pottery",
     "price": "75.00"
   },
   {
     "id": 6,
     "category": "plates",
-    "img": "./images/collection/item-6.png",
-    "tilte": "Blue Plate",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-6.png",
+    "title": "Blue Plate",
     "price": "65.00"
   },
   {
     "id": 7,
     "category": "vases",
-    "img": "./images/collection/item-7.png",
-    "tilte": "White Potterys",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-7.png",
+    "title": "White Potterys",
     "price": "115.00"
   },
   {
     "id": 8,
     "category": "vases",
-    "img": "./images/collection/item-8.png",
-    "tilte": "Wine Pottery",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-8.png",
+    "title": "Wine Pottery",
     "price": "95.00"
   },
   {
     "id": 9,
     "category": "mugs",
-    "img": "./images/collection/item-9.png",
-    "tilte": "White Cup",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-9.png",
+    "title": "White Cup",
     "price": "55.00"
   },
   {
     "id": 10,
     "category": "plates",
-    "img": "./images/collection/item-10.png",
-    "tilte": "Red Plate",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-10.png",
+    "title": "Red Plate",
     "price": "115.00"
   },
   {
     "id": 11,
     "category": "vases",
-    "img": "./images/collection/item-11.png",
-    "tilte": "Wine Bowl",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-11.png",
+    "title": "Wine Bowl",
     "price": "115.00"
   },
   {
     "id": 12,
     "category": "mugs",
-    "img": "./images/collection/item-12.png",
-    "tilte": "Gray Cup",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-12.png",
+    "title": "Gray Cup",
     "price": "65.00"
   },
   {
     "id": 13,
     "category": "mugs",
-    "img": "./images/collection/item-13.png",
-    "tilte": "Torquers Vaze",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-13.png",
+    "title": "Torquers Vaze",
     "price": "95.00"
   },
   {
     "id": 14,
     "category": "vases",
-    "img": "./images/collection/item-14.png",
-    "tilte": "Black Pottery",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-14.png",
+    "title": "Black Pottery",
     "price": "115.00"
   },
   {
     "id": 15,
     "category": "vases",
-    "img": "./images/collection/item-15.png",
-    "tilte": "Silver Pottery",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-15.png",
+    "title": "Silver Pottery",
     "price": "100.00"
   },
   {
     "id": 16,
     "category": "vases",
-    "img": "./images/collection/item-16.png",
-    "tilte": "Mint Bowl",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-16.png",
+    "title": "Mint Bowl",
     "price": "115.00"
   },
   {
     "id": 17,
     "category": "vases",
-    "img": "./images/collection/item-17.png",
-    "tilte": "Gold & Black Pottery",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-17.png",
+    "title": "Gold & Black Pottery",
     "price": "95.00"
   },
   {
     "id": 18,
-    "img": "./images/collection/item-18.png",
-    "tilte": "Orange Plate",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-18.png",
+    "title": "Orange Plate",
     "price": "65.00"
   },
   {
-    "id": 19,
+    "id": 18,
     "category": "vases",
-    "img": "./images/collection/item-19.png",
-    "tilte": "Red Ceramic",
+    "img": "https://notchy-cross.000webhostapp.com/images/collection/item-019.png",
+    "title": "Red Ceramic",
     "price": "45.00"
   }
 ]
