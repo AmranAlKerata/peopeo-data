@@ -1,0 +1,141 @@
+[
+  {
+    "id": 0,
+    "category": "plates",
+    "img": "./images/collection/item-0.png",
+    "tilte": "Decor Plate",
+    "price": "65.00"
+  },
+  {
+    "id": 1,
+    "category": "vases",
+    "img": "./images/collection/item-1.png",
+    "tilte": "Mint Pottery",
+    "price": "75.00"
+  },
+  {
+    "id": 2,
+    "category": "vases",
+    "img": "./images/collection/item-2.png",
+    "tilte": "Set Of Potterys",
+    "price": "125.00"
+  },
+  {
+    "id": 3,
+    "category": "vases",
+    "img": "./images/collection/item-3.png",
+    "tilte": "Orange Cermic",
+    "price": "55.00"
+  },
+  {
+    "id": 4,
+    "category": "vases",
+    "img": "./images/collection/item-4.png",
+    "tilte": "Dark Bowl",
+    "price": "115.00"
+  },
+  {
+    "id": 5,
+    "category": "vases",
+    "img": "./images/collection/item-5.png",
+    "tilte": "Square Pottery",
+    "price": "75.00"
+  },
+  {
+    "id": 6,
+    "category": "plates",
+    "img": "./images/collection/item-6.png",
+    "tilte": "Blue Plate",
+    "price": "65.00"
+  },
+  {
+    "id": 7,
+    "category": "vases",
+    "img": "./images/collection/item-7.png",
+    "tilte": "White Potterys",
+    "price": "115.00"
+  },
+  {
+    "id": 8,
+    "category": "vases",
+    "img": "./images/collection/item-8.png",
+    "tilte": "Wine Pottery",
+    "price": "95.00"
+  },
+  {
+    "id": 9,
+    "category": "mugs",
+    "img": "./images/collection/item-9.png",
+    "tilte": "White Cup",
+    "price": "55.00"
+  },
+  {
+    "id": 10,
+    "category": "plates",
+    "img": "./images/collection/item-10.png",
+    "tilte": "Red Plate",
+    "price": "115.00"
+  },
+  {
+    "id": 11,
+    "category": "vases",
+    "img": "./images/collection/item-11.png",
+    "tilte": "Wine Bowl",
+    "price": "115.00"
+  },
+  {
+    "id": 12,
+    "category": "mugs",
+    "img": "./images/collection/item-12.png",
+    "tilte": "Gray Cup",
+    "price": "65.00"
+  },
+  {
+    "id": 13,
+    "category": "mugs",
+    "img": "./images/collection/item-13.png",
+    "tilte": "Torquers Vaze",
+    "price": "95.00"
+  },
+  {
+    "id": 14,
+    "category": "vases",
+    "img": "./images/collection/item-14.png",
+    "tilte": "Black Pottery",
+    "price": "115.00"
+  },
+  {
+    "id": 15,
+    "category": "vases",
+    "img": "./images/collection/item-15.png",
+    "tilte": "Silver Pottery",
+    "price": "100.00"
+  },
+  {
+    "id": 16,
+    "category": "vases",
+    "img": "./images/collection/item-16.png",
+    "tilte": "Mint Bowl",
+    "price": "115.00"
+  },
+  {
+    "id": 17,
+    "category": "vases",
+    "img": "./images/collection/item-17.png",
+    "tilte": "Gold & Black Pottery",
+    "price": "95.00"
+  },
+  {
+    "id": 18,
+    "img": "./images/collection/item-18.png",
+    "tilte": "Orange Plate",
+    "price": "65.00"
+  },
+  {
+    "id": 19,
+    "category": "vases",
+    "img": "./images/collection/item-19.png",
+    "tilte": "Red Ceramic",
+    "price": "45.00"
+  }
+]
